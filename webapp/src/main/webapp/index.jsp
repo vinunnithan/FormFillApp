@@ -8,7 +8,6 @@
     <label for="name"><b>name</b></label>
     <input type="text" placeholder="Enter name" name="name" id="name" required>
     <br>
-
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
@@ -21,8 +20,8 @@
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <br>
 
-    <label for="aadhar"><b>Aadhar Number</b></label>
-    <input type="text" placeholder="Enter Aadhar Number" name="aadhar" id="aadhar" required>
+    <label for="mothername"><b>name</b></label>
+    <input type="name" placeholder="enter mother name" name="sunitha" id="name" required>
     <br>
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
