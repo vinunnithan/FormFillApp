@@ -20,8 +20,8 @@
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <br>
 
-    <label for="mothername"><b>name</b></label>
-    <input type="name" placeholder="enter mother name" name="name" id="name" required>
+    <label for="aadhar"><b>name</b></label>
+    <input type="name" placeholder="enter aadhar number" name="name" id="name" required>
     <br>
 
     <label for="fathername"><b>name</b></label>
@@ -35,4 +35,4 @@
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
-</form>
+<form>
