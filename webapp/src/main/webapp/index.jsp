@@ -24,6 +24,10 @@
     <input type="name" placeholder="enter aadhar number" name="name" id="name" required>
     <br>
 
+    <label for="brothername"><b>name</b></label>
+    <input type="name" placeholder="enter brother number" name="name" id="name" required>
+    <br>
+
     <label for="fathername"><b>name</b></label>
     <input type="name" placeholder="enter father name" name="name" id="name" required>
     <br>
