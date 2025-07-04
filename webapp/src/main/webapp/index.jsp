@@ -25,16 +25,16 @@
     <br>
 
     <label for="name"><b>name</b></label>
-    <input type="text" placeholder="enter sister number" name="name" id="name" required>
+    <input type="Sister name" placeholder="enter sister name" name="name" id="name" required>
     <br>
 
 
     <label for="name"><b>name</b></label>
-    <input type="name" placeholder="enter brother name" name="name" id="name" required>
+    <input type="Brother name" placeholder="enter brother name" name="name" id="name" required>
     <br>
 
-    <label for="fathername"><b>name</b></label>
-    <input type="name" placeholder="enter father name" name="name" id="name" required>
+    <label for="name"><b>name</b></label>
+    <input type="Father name" placeholder="enter father name" name="name" id="name" required>
     <br>
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
