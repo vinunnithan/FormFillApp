@@ -20,21 +20,16 @@
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <br>
 
-    <label for="aadhar"><b>name</b></label>
+    <label for="aadhar"><b>Aadhar name</b></label>
     <input type="name" placeholder="enter aadhar number" name="name" id="name" required>
     <br>
 
-    <label for="name"><b>name</b></label>
-    <input type="Sister name" placeholder="enter sister name" name="name" id="name" required>
+    <label for="name"><b>Sisters name</b></label>
+    <input type="name" placeholder="enter sister name" name="name" id="name" required>
     <br>
 
-
-    <label for="name"><b>name</b></label>
-    <input type="Brother name" placeholder="enter brother name" name="name" id="name" required>
-    <br>
-
-    <label for="name"><b>name</b></label>
-    <input type="Father name" placeholder="enter father name" name="name" id="name" required>
+    <label for="name"><b>Fathers name</b></label>
+    <input type="name" placeholder="enter father name" name="name" id="name" required>
     <br>
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
