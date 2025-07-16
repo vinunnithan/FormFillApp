@@ -36,6 +36,11 @@
     <input type="name" placeholder="enter spouse name" name="name" id="name" required>
     <br>
 
+    <label for="name"><b>son</b></label>
+    <input type="name" placeholder="enter son  name" name="name" id="name" required>
+    <br>
+
+
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
