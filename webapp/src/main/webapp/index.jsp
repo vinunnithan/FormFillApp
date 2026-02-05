@@ -21,7 +21,10 @@
     <label for="mother"><b>Mothername</b></label>
     <input type="text" placeholder="Enter Mothername" name="mothername" id="mother id" required>
     <br>
-
+    
+    <label for="spouse"><b>spousename</b></label>
+    <input type="text" placeholder="Enter Spousename" name="spousename" id="spouse id" required>
+    <br>
 
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
